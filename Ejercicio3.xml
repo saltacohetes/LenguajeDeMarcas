@@ -1,0 +1,14 @@
+<Restaurante>
+    <Menu>
+        <Plato>
+            <Nombre plato="Principal">Hamburguesa</Nombre>
+            <Precio moneda="EUR">5.50</Precio>
+            <Calorias unidad="cal">200</Calorias>
+        </Plato>
+        <Plato>
+            <Nombre plato="Postre">Tarta 3 chocolates</Nombre>
+            <Precio moneda="EUR">3.50</Precio>
+            <Calorias unidad="cal">300</Calorias>
+        </Plato>
+    </Menu>
+</Restaurante>
