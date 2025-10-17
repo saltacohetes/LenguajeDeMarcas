@@ -1,0 +1,14 @@
+ <MenuMcDonals>
+  <comida>
+        <nombre>McFlurry</nombre>
+        <precio moneda = "Euro">2.00</precio>
+        <descripcion>McFlurry de McDonalds</descripcion>
+        <calorias>398</calorias>
+    </comida>
+    <cena>
+        <nombre>BigMac</nombre>
+        <precio moneda = "Euro">4.50</precio>
+        <descripcion>La hamburguesa más común de McDonalds</descripcion>
+        <calorias>490</calorias>
+    </cena>
+</MenuMcDonals> 

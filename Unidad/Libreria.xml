@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria>
+    <libro>
+        <titulo>El Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <fecha>2002</fecha>
+        <genero>Novela</genero>
+        <editorial>RAE</editorial>
+        <isbn>9780744525021</isbn>
+    </libro>
+    <libro>
+        <titulo>Cien Años de Soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <fecha>1967</fecha>
+        <genero>Fantasia</genero>
+        <editorial>Debolsillo</editorial>
+        <isbn>9788497592028</isbn>
+    </libro>
+    <libro>
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <fecha>1949</fecha>
+        <genero>Ficción</genero>
+        <editorial>Debolsillo</editorial>
+        <isbn>9788499890944</isbn>
+    </libro>
+    <libro>
+        <titulo tapa = "blanda">Orgullo y Prejuicio</titulo>
+        <autor>Jane Austen</autor>
+        <fecha>1813</fecha>
+        <genero>Romance</genero>
+        <editorial>Alba</editorial>
+        <isbn>9788484284888</isbn>
+    </libro>
+    <libro>
+        <titulo>La Divina Comedia</titulo>
+        <autor>Dante Alighieri</autor>
+        <fecha>1320</fecha>
+        <genero>Poesía</genero>
+        <editorial>La otra H</editorial>
+        <isbn>9788416540785</isbn>
+    </libro>
+    <libro>
+        <titulo tapa = "dura">Orgullo y Prejuicio</titulo>
+        <autor>Jane Austen</autor>
+        <fecha>1813</fecha>
+        <genero>Romance</genero>
+        <editorial>Alma</editorial>
+        <isbn>9788415618782</isbn>
+    </libro>
+    <libro>
+        <titulo Cantos ="Tintados">Elantris</titulo>
+        <autor>Brandon Sanderson</autor>
+        <fecha>2005</fecha>
+        <genero>Fantasía</genero>
+        <editorial>penguinrandomhouse</editorial>
+        <isbn>9788490707555</isbn>
+    </libro>
+    <manga>
+        <titulo Tomo = "1">One Piece</titulo>
+        <autor>Eiichiro Oda</autor>
+        <fecha>1997</fecha>
+        <genero>Aventura</genero>
+        <editorial>Planeta</editorial>
+        <isbn>9788468471525</isbn>
+    </manga>
+     <manga>
+        <titulo Tomo = "110">One Piece</titulo>
+        <autor>Eiichiro Oda</autor>
+        <fecha>2025</fecha>
+        <genero>Aventura</genero>
+        <editorial>Planeta</editorial>
+        <isbn>9788411619356</isbn>
+    </manga>
+    <comic>
+        <titulo Edicion = "MustHave" >Superman All Star</titulo>
+        <autor>Grant Morrison</autor>
+        <fecha>2025</fecha>
+        <genero>Superhéroes</genero>
+        <editorial>Panini</editorial>
+        <isbn>9791370130152</isbn>
+    </comic>
+    <comic>
+        <titulo>Hellen de wyndhorn</titulo>
+        <autor>Tom King</autor>
+        <fecha>2025</fecha>
+        <genero>Fantasía</genero>
+        <editorial>Norma</editorial>
+        <isbn>9788467975512</isbn>
+    </comic>
+    <libro>
+        <titulo>Los Hijos de Hurin</titulo>
+        <autor>J.R.R. Tolkien</autor>
+        <fecha>2007</fecha>
+        <genero>Fantasía</genero>
+        <editorial>Minotauro</editorial>
+        <isbn>9788445006498</isbn>
+    </libro>
+</libreria>

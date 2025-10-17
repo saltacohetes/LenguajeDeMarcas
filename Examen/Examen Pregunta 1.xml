@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Personas>
+    <Datos>
+        <nombre>Luis</nombre>
+        <Apellidos>Pérez Sánchez</Apellidos>
+        <Edad id = "años">23</Edad>
+        <EstadoCivil>Casado</EstadoCivil>
+    </Datos>
+    <Datos>
+        <nombre>Ana</nombre>
+        <Apellidos>Ruíz López</Apellidos>
+        <Edad id = "años">20</Edad>
+        <EstadoCivil>Soltera</EstadoCivil>
+    </Datos>
+    <Datos>
+        <nombre>Carmen</nombre>
+        <Apellidos>Gómez Ojeda</Apellidos>
+        <Edad id = "años">34</Edad>
+        <EstadoCivil>Casada</EstadoCivil>
+    </Datos>
+    <Datos>
+        <nombre>Sergio</nombre>
+        <Apellidos>Oloriz Ramírez</Apellidos>
+        <Edad id = "años">29</Edad>
+        <EstadoCivil>Soltero</EstadoCivil>
+    </Datos>
+</Personas>

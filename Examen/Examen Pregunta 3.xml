@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tienda>
+    <Producto>
+        <NombreProducto id = "4543">Auriculares Inalámbricos</NombreProducto>
+        <Precio moneda = "€">49.99</Precio>
+        <Descripcción>Auriculares cómodos con conectividad Bluetooth</Descripcción>
+        <Caracteristicas>Cancelación de ruido, batería de larga duración, controles táctiles</Caracteristicas>
+    </Producto>
+    <Producto>
+        <NombreProducto id = "76565">Libreta de Viaje</NombreProducto>
+        <Precio moneda = "€">8.95</Precio>
+        <Descripcción>Libreta compacta ideal para anotar tus aventuras.</Descripcción>
+        <Caracteristicas>Tapa dura resistente, hojas rayadas, bolsillo interior</Caracteristicas>
+    </Producto>
+    <Producto>
+        <NombreProducto id = "65345">Set de Té de Hierbas</NombreProducto>
+        <Precio moneda = "€">15.50</Precio>
+        <Descripcción>Selección de infusiones de hierbas relajantes.</Descripcción>
+        <Variedades>Manzanilla, menta, té de jengibre</Variedades>
+    </Producto>
+</Tienda>
