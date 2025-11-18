@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario examen de HTML</title>
+</head>
+<body>
+<label>Nombre: </label>
+<input id="Nombre" name="nombre" type="text" placeholder="Nombre de usuario" required minlength="3"  required maxlength="20"><br>
+
+<label>Contraseña: </label>
+<input id="Contrasena" name="contrasena" type="password" placeholder="Contraseña" required minlength="10" required>
+
+    <br>
+
+<label for="descripcion">Comentarios: </label><br>
+    <textarea id="descripcion" name="descripcion" rows="4" cols="50" placeholder="Comentarios del usuario"></textarea>
+
+    <br>
+
+<label>Correo Electrónico: </label>
+<input id="Email" name="CorreoElectronico" type="email" required placeholder="Email de usuario">
+
+    <br>
+
+        <label for="provincia">Selecciona una opción: </label>
+        <select id="provincia" name="provincia">
+            <option id="choose">Elige un país</option>
+            <option id="ES">España</option>
+            <option id="AUS">Ausralia</option>
+            <option id="FR">Francia</option>
+        </select>
+
+    <br>
+
+		<fieldset>
+			<legend>Género: </legend>
+				<input id="generoH" name="genero" type="radio" checked >
+				<label for = "generoH">Masculino</label>
+    <br>
+				<input id="generoM" name="genero" type="radio">
+				<label for="generoM">Femenino</label>
+		</fieldset>
+        <fieldset>
+			<legend>Terminos y condiciones: </legend>
+			<input required id="11" name="11" type="checkbox">
+        </fieldset>
+
+    <br>
+        <fieldset>
+            <legend>Preferencias de idioma: </legend>
+				<input placeholder="Elige o escribe un idioma" list="idiomas">
+				<datalist id="idiomas">
+					<option value="Español">
+					<option value="Inglés">
+					<option value="Francés">
+					<option value="Alemán">
+				</datalist>
+        </fieldset>
+    <br>
+				<button type="button">Enviar</button>
+				<button type="reset" >Limpiar</button>
+
+</body>
+</html>
